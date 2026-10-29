@@ -6,13 +6,13 @@
 
 ## 🌌 The Novix Ecosystem
 
-### 📱 Novix Phone OS
+### 📱 Novix Phone OS: $25
 An operating system experience for smartphones, designed for everyday use, entertainment, communication, and staying connected.
 
-### 📲 Novix Tablet OS
+### 📲 Novix Tablet OS: $50
 A tablet operating system focused on entertainment, creativity, browsing, and flexible everyday experiences.
 
-### 💻 Novix Desktop OS
+### 💻 Novix Desktop OS: $100
 An operating system for desktop PCs and laptops, built around personal computing, gaming, productivity, creativity, and general use.
 
 ### 🏢 Novix Enterprise Managed OS
